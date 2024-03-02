@@ -2,10 +2,11 @@
 
   <PropertyGroup>
     <TargetLatestRuntimePatch>true</TargetLatestRuntimePatch>
+    <LangVersion>12</LangVersion>
   </PropertyGroup>
   
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Authors>Andrew Newlands</Authors>
     <Product />
